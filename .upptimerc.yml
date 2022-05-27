@@ -7,7 +7,9 @@ sites:
     url: https://infoblock.github.io/Website/
   - name: Website (Custom Domain)
     url: https://infoblock.gq
-  - name: Block A.I Website
+  - name: Block A.I Website (Github Domain)
+    url: https://infoblock.github.io/BlockAI/
+  - name: Block A.I Website (Custom Doamin)
     url: https://blockai.infoblock.gq
   - name: Preview Website (Github Domain)
     url: https://infoblock.github.io/Preview/
