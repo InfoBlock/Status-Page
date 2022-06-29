@@ -6,7 +6,7 @@ sites:
   - name: Website (Github Domain)
     url: https://infoblock.github.io/Website/
   - name: Website (Custom Domain)
-    url: https://infoblock.gq
+    url: https://infoblock.thedev.id
   - name: Block A.I Website (Github Domain)
     url: https://infoblock.github.io/BlockAI/
   - name: Block A.I Website (Custom Doamin)
@@ -21,10 +21,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.infoblock.gq
   # baseUrl: /your-repo-name
-  logoUrl: https://infoblock.gq/cdn/logo.png
+  logoUrl: https://infoblock.github.io/Website/cdn/logo.png
   name: status.infoblock.gq
   introTitle: "Web & Service Stats"
   introMessage: On this Page you can see the current Status of all my Projects
+  theme: dark
   navbar:
     - title: Status
       href: /
