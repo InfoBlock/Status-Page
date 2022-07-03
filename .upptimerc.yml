@@ -9,7 +9,7 @@ sites:
     url: https://infoblock.thedev.id
   - name: Block A.I Website (Github Domain)
     url: https://block-a-i.github.io/BlockWeb/
-  - name: Block A.I Website (Custom Doamin)
+  - name: Block A.I Website (Custom Domain)
     url: https://blockai.infoblock.gq
   - name: Preview Website (Github Domain)
     url: https://infoblock.github.io/Preview/
