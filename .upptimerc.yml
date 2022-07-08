@@ -43,7 +43,7 @@ status-website:
       href: https://infoblock.github.io/Website/
   metaTags:
     - name: "color-scheme"
-      content: "dark light"
+      content: "dark"
     - name: "robots"
       content: "noindex"
 
