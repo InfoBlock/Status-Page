@@ -43,7 +43,7 @@ status-website:
       href: https://infoblock.github.io/Website/
 
 i18n:
-  footer: Thanks for checking by!
+  footer: Created by [InfoBlock](https://infoblock.github.io/Website/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
