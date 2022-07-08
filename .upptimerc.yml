@@ -1,6 +1,7 @@
 # Change these first
 owner: InfoBlock # Your GitHub organization or username, where this repository lives
 repo: Status-Page # The name of this repository
+user-agent: InfoBlock
 
 sites:
   - name: Website (Github Domain)
@@ -40,6 +41,9 @@ status-website:
       href: /
     - title: Website
       href: https://infoblock.github.io/Website/
+
+i18n:
+  footer: Thanks for checking by!
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
