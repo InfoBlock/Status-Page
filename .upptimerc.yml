@@ -5,16 +5,25 @@ repo: Status-Page # The name of this repository
 sites:
   - name: Website (Github Domain)
     url: https://infoblock.github.io/Website/
+    icon: https://infoblock.github.io/Website/cdn/logo.png
   - name: Website (Custom Domain)
     url: https://infoblock.thedev.id
+    icon: https://infoblock.github.io/Website/cdn/logo.png
   - name: Block A.I Website (Github Domain)
     url: https://block-a-i.github.io/BlockWeb/
+    icon: https://block-a-i.github.io/BlockWeb/assets/BotLogo.png
   - name: Block A.I Website (Custom Domain)
     url: https://blockai.infoblock.gq
+    icon: https://block-a-i.github.io/BlockWeb/assets/BotLogo.png
   - name: Preview Website (Github Domain)
     url: https://infoblock.github.io/Preview/
+    icon: https://infoblock.github.io/Website/cdn/logo.png
   - name: Preview Website (Custom Domain)
     url: https://preview.infoblock.gq
+    icon: https://infoblock.github.io/Website/cdn/logo.png
+
+assignees:
+  - InfoBlock
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
